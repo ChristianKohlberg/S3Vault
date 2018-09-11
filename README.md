@@ -1,5 +1,5 @@
 # S3Vault
-First Draft for a Vault solution with persistent storage in aws s3.
+First Draft for a Vault solution with persistent storage in AWS s3.
 
 
 
